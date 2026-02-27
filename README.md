@@ -1,3 +1,16 @@
-https://public.tableau.com/app/profile/priyanka.k.p/viz/project_17697097526730/Dashboard1  
-# Tableau-Project-Airbnb
-This project features an interactive Tableau dashboard analyzing Airbnb prices by bedrooms, zip codes, and review trends. It visualizes pricing patterns, geographic distribution, and listing concentration, showcasing skills in data visualization, exploratory analysis, and Tableau dashboard design.
+🏠 Airbnb Market Analysis Dashboard  
+
+📌 Project Overview  
+This project presents an interactive Tableau dashboard analyzing Airbnb pricing trends by bedrooms, zip codes, and customer reviews.  
+
+The dashboard highlights:
+- 📊 Pricing patterns across locations  
+- 🗺️ Geographic distribution of listings  
+- 🏘️ Listing concentration by bedroom type  
+- ⭐ Review-based insights  
+
+
+🔗 Live Interactive Dashboard  
+[![View in Tableau Public](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)]
+
+
