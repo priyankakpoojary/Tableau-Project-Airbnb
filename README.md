@@ -11,6 +11,6 @@ The dashboard highlights:
 
 
 🔗 Live Interactive Dashboard  
-[View in Tableau Public](https://public.tableau.com/app/profile/priyanka.k.p/viz/project_17697097526730/Dashboard1)
+[![View in Tableau Public](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/priyanka.k.p/viz/project_17697097526730/Dashboard1)
 
 
